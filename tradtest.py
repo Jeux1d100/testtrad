@@ -31,9 +31,9 @@ class GuiTk(tkinter.Tk):
         bouFR.grid(column=0, row=4, padx=1, pady=1, sticky="nsew")
         bouEN = Button(fenTrad, borderwidth=1, text="trad_EN", command=trad_EN, fg="white", bg="black", activebackground="white") #Traduire en EN
         bouEN.grid(column=1, row=4, padx=1, pady=1, sticky="nsew")
+
     
-
-
+    
 if __name__ == "__main__":
     app = GuiTk()
     app.mainloop()

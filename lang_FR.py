@@ -3,5 +3,5 @@
 
 lang={}
 
-lang["Hello_World"] = "Hello World !"
+lang["Hello_World"] = "Salut les gens !"
 lang["It_s_a_sentence"] = "C'est une phrase."
